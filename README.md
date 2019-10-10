@@ -1,4 +1,4 @@
-INFO 6210 DATABASE MANAGEMENT AND DATABASE DESIGGN
+INFO 6210 DATABASE MANAGEMENT AND DATABASE DESIGN
 HYPERPARAMETER DATABASE: (ANACONDA, PYTHON, MYSQL)      
 Database Design and Implementation introduces database development theory and skills, including database concepts, architecture, and deployment in a user-centered system context using SQL.
 
